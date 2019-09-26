@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af0ab613-eec1-4090-8e9e-5d1904d7303a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_5858.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_5959.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_6060.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_6161.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job_6262.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcd-memsql-bug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcdmemsqlbug.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcdmemsqlbug.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/DatabaseProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/AdGroupLevelId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/ChangeDetectionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/ChangeDetectorRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/ChangeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/ChannelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/data/model/DetectedChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/services/AdGroupLevelDigestDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/services/ChangeDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/services/ProducerBlockingExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/services/StringIteratorInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/test/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/test/MemSqlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/ConnectionPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/DatabaseProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/AdGroupLevelId$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/AdGroupLevelId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChangeDetectionMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChangeDetectorRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChangeDetectorRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChangeDetectorRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChangeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/ChannelType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/data/model/DetectedChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/services/AdGroupLevelDigestDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/services/ChangeDetector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/services/ProducerBlockingExecutor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/services/StringIteratorInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/test/DataGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/kenshoo/mcdownload/test/MemSqlTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RMb5s6h3VI5LekyAMdXrtNzYLf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\gal\mcd-memsql-bug" />
+      <recent name="C:\dev\gal\mcd-memsql-bug\src\main\java\com\kenshoo\mcdownload\data\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kenshoo.mcdownload.services" />
+      <recent name="com.kenshoo.mcdownload.data.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kenshoo.mcdownload.data.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemSqlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kenshoo.mcdownload.test.MemSqlTest" />
+      <module name="mcd-memsql-bug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MemSqlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af0ab613-eec1-4090-8e9e-5d1904d7303a" name="Default Changelist" comment="" />
+      <created>1569479731783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569479731783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kenshoo/mcdownload/services/ChangeDetector.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
