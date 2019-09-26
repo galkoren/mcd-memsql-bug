@@ -6,10 +6,10 @@ public class DatabaseProperties {
 
     public static PoolProperties get() {
         PoolProperties p = new PoolProperties();
-        p.setUrl("jdbc:mysql://10.1.12.227:3306/mcdownload_prod");
+        p.setUrl("jdbc:mysql://localhost:3306/mcdownload_prod");
         p.setDriverClassName("com.mysql.jdbc.Driver");
-        p.setUsername("mc_user");
-        p.setPassword("mc_user");
+        p.setUsername("root");
+        p.setPassword("root");
         p.setJmxEnabled(true);
         p.setTestWhileIdle(false);
         p.setTestOnBorrow(true);
